@@ -18,7 +18,7 @@ To add new entries to the blocklist or to change entries, go to the Firefox Add-
 
 ## Add new entries
 
-To add a new entry to the blocklist click on "Add new Regex". Two new input field will appear. The first input field stores the actual Regular Expression, the second one stores additional flags such as `i` for enabling case-insensitivity.
+To add a new entry to the blocklist click on "Add new Regex". Two new input field will appear. The first input field stores the actual Regular Expression, the second one stores [additional flags](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions#advanced_searching_with_flags) such as `i` for enabling case-insensitivity.
 
 ## Edit entries
 
